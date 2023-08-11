@@ -1,4 +1,4 @@
-# 💖 ABOUT ME :
+# 💖 ABOUT ME 
 💫 I'm currently learning front end web development<br><br>
 
 
