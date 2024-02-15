@@ -1,5 +1,5 @@
 # 💖 ABOUT ME 
-💫 I'm currently learning front end web development<br><br>
+Hey there, myself Alorika Jain, I am a passionate tech enthusiast and excited about cybersecurity, artificial intelligence and machine learning related domains.I am currently pursuing B.tech in Automation and robotics at GGSIPU (Guru Gobind Singh Indraprastha University).I enjoyingly work to find new solutions to problem to create a positive environment with my strong programming and communication skills.  <br><br>
 
 
 ## 🌐 Socials:
